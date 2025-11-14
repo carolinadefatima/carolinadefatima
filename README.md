@@ -51,6 +51,17 @@ Pacote Office e ferramentas de produtividade
 
 ---
 
+### Estudos Concluídos & Base Técnica
+
+Aqui está o histórico do meu aprendizado, do Front-End à arquitetura Full Stack:
+
+* **Bootcamp Full Stack Developer (XP Inc.):** [Acompanhe o meu estudo em C#/.NET, React, TDD e SQL Server aqui!](<https://github.com/carolinadefatima/XP-Inc.-Full-Stack-Developer.git>)
+    * *Destaque:* Mais de 127h de curso, com foco em **Engenharia de Software**, Back-End (C#) e APIs REST.
+* **Bootcamp Front-end do Zero (Ri Happy):** [Veja todos os projetos e desafios concluídos (HTML, CSS, JavaScript) aqui!](https://github.com/carolinadefatima/dio-frontend-do-zero-challenges.git)
+    * *Destaque:* Mais de 70h de curso, com foco em lógica, DOM e consumo de APIs.
+
+---
+
 
 ### Foco de Estudo Atual  
 - **Desenvolvimento Back-End com C#/.NET** e criação de **APIs RESTful**.
