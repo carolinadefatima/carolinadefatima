@@ -50,7 +50,7 @@ Pacote Office e ferramentas de produtividade
 ### Vamos nos conectar!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatima-sousa-342382368/" target="_blank">
+  <a href="https://www.linkedin.com/in/anacarolinadefatima/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50px">
   </a>
   <a href="mailto:santosanacarolina12@gmail.com" target="_blank">
