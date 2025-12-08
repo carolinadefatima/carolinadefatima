@@ -55,11 +55,12 @@ Aqui está o histórico do meu aprendizado, do Front-End à arquitetura Full Sta
 ---
 
 
-### Foco de Estudo Atual  
-- **Desenvolvimento Back-End com C#/.NET** e criação de **APIs RESTful**.
-- **Desenvolvimento Orientado a Testes (TDD)** e **Clean Code**.
-- **Infraestrutura em Nuvem (Azure)** e práticas de **DevOps**.
-- **React, TypeScript** e **Estrutura de Dados**.
+### Foco de Estudo Atual
+
+* **Desenvolvimento Back-End com Java** e **Spring Boot**, com ênfase em **Programação Orientada a Objetos (POO)** e criação de **APIs RESTful**
+* **Mapeamento Objeto-Relacional (JPA/Hibernate)** e uso de bancos de dados **PostgreSQL/MySQL**
+* **Desenvolvimento Orientado a Testes (TDD)** e **Metodologias Ágeis**
+* **Front-End Moderno com React**
 
 ---
 
