@@ -1,82 +1,98 @@
 <h1 align="center">
   🌸 Oi! Eu sou a <strong>Ana Carolina de Fátima</strong> 🌸  
   <br>
-  <strong>Desenvolvedora Full Stack Júnior</strong>
+  <strong>Desenvolvedora Back-End em Formação</strong>
 </h1>
 
+<p align="center">
+  Seja bem-vindo(a) ao meu GitHub  
+  Aqui você vai encontrar meus estudos, projetos e minha evolução como desenvolvedora 
+  <br>— um passo de cada vez.
+</p>
+
+
 ---
 
-### Sobre mim
+<h2 align="center">Sobre mim</h2>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e motivada por desafios lógicos. Minha jornada é focada em construir aplicações completas, do **Back-End** ao **Front-End**.  
-Atualmente estou me especializando em **Desenvolvimento Full Stack** com a stack: **C#/.NET, React e APIs RESTful**. Meu objetivo é aplicar práticas de **TDD** e **Clean Code** para sistemas robustos e escaláveis.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (IESB)**, em transição para a área de tecnologia, com foco em **desenvolvimento Back-End**, lógica de programação e automação.
+
+Minha trajetória profissional anterior me deu uma base forte em **organização, análise de dados e resolução de problemas**, habilidades que hoje aplico na escrita de **código limpo, estruturado e funcional**. Gosto de entender regras de negócio, trabalhar com lógica e transformar problemas em soluções técnicas.
+
+Atualmente, meu foco principal é **Python**, mas também possuo uma base sólida em **JavaScript**, que utilizo quando faz sentido para integração com interfaces e consumo de APIs.
 
 ---
 
-### Tecnologias e Ferramentas em Destaque  
+## O que estou estudando agora
+
+- Back-End com **Python**
+- Lógica de Programação e Estruturas de Dados
+- APIs REST e manipulação de dados (CSV / JSON)
+- Boas práticas de código
+- Aprendizado contínuo com apoio de ferramentas de IA
+
+---
+
+<h2 align="center">Tecnologias & Ferramentas</h2>
 
 <div align="center">
 
-#### Back-End & Full Stack Core  
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js"></code>
-#### Front-End & UI  
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"></code>
+### Linguagens
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"></code>
 
-#### Banco de Dados & Práticas  
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
-<code><img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub"></code>
-</div>
----
+### Versionamento & Ambiente
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"></code>
 
-#### Outras habilidades  
-Lógica de Programação  
-Design (Adobe Illustrator, Photoshop, InDesign)  
-Pacote Office e ferramentas de produtividade  
+### Base Front-End
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></code>
 
 </div>
 
 ---
 
-### Estudos Concluídos & Base Técnica
+## Repositórios em Destaque
 
-Aqui está o histórico do meu aprendizado, do Front-End à arquitetura Full Stack:
+* **[The Python Tour](LINK_DO_REPOSITORIO):**  
+  Cronograma autoral de estudos em Python, estruturado em módulos práticos para consolidar lógica, sintaxe, automação e construção de projetos back-end.  
+  *Em andamento*
 
-* **Bootcamp Front-end do Zero (Ri Happy):** [Veja todos os projetos e desafios concluídos (HTML, CSS, JavaScript) aqui!](https://github.com/carolinadefatima/dio-frontend-do-zero-challenges.git)
-    * *Destaque:* Mais de 70h de curso, com foco em lógica, DOM e consumo de APIs.
+* **[Bootcamp Back-End com Python — Luizalabs (DIO)](LINK_DO_REPOSITORIO):**  
+  Projetos e desafios práticos focados em desenvolvimento back-end com Python, APIs, organização de código e resolução de problemas do mundo real.  
+  *Em andamento*
+
+* **[Bootcamp Front-End do Zero — Ri Happy (DIO)](LINK_DO_REPOSITORIO):**  
+  Repositório índice com projetos desenvolvidos em HTML, CSS e JavaScript, responsáveis por consolidar minha base em lógica, DOM e consumo de APIs REST.
+
+
+## Formação & Certificações
+
+- **Análise e Desenvolvimento de Sistemas** — IESB *(em andamento)*  
+- **Bootcamp Back-End com Python** — Luizalabs | DIO  *(em andamento)*  
+- **Bootcamp Front-End do Zero** — Ri Happy | DIO  
+- **Formação Lógica de Programação** — DIO  
+- **Git e GitHub: Controle de Versão** — DIO  
 
 ---
-
-
-### Foco de Estudo Atual
-
-* **Desenvolvimento Back-End com Java** e **Spring Boot**, com ênfase em **Programação Orientada a Objetos (POO)** e criação de **APIs RESTful**
-* **Mapeamento Objeto-Relacional (JPA/Hibernate)** e uso de bancos de dados **PostgreSQL/MySQL**
-* **Desenvolvimento Orientado a Testes (TDD)** e **Metodologias Ágeis**
-* **Front-End Moderno com React**
-
----
-
-### Vamos nos conectar!  
+<h2 align="center">Vamos nos conectar?</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anacarolinadefatima/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50px">
+    <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="45px">
   </a>
   <a href="mailto:santosanacarolina12@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/344/gmail-new.png" width="50px">
-  </a>
-  <a href="https://github.com/carolinadefatima" target="_blank">
-    <img src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" width="50px">
+    <img src="https://img.icons8.com/fluency/344/gmail-new.png" width="45px">
   </a>
 </p>
 
----
+<p align="center">
+  Obrigada pela visita!
+</p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZkODk4ZXdxeGRndHZqYW5weTFuc21leHVqcWMyOG8xa2FlNzhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fvi3LEWpn2Mmh1fnBK/giphy.gif" alt="GIF">
+</p>
