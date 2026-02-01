@@ -57,15 +57,15 @@ Atualmente, meu foco principal é **Python**, mas também possuo uma base sólid
 
 ## Repositórios em Destaque
 
-* **[The Python Tour](LINK_DO_REPOSITORIO):**  
+* **[The Python Tour](https://github.com/carolinadefatima/the_python_tour.git):**  
   Cronograma autoral de estudos em Python, estruturado em módulos práticos para consolidar lógica, sintaxe, automação e construção de projetos back-end.  
   *Em andamento*
 
-* **[Bootcamp Back-End com Python — Luizalabs (DIO)](LINK_DO_REPOSITORIO):**  
+* **[Bootcamp Back-End com Python — Luizalabs (DIO)](https://github.com/carolinadefatima/luizalabs_back_end_com_python.git):**  
   Projetos e desafios práticos focados em desenvolvimento back-end com Python, APIs, organização de código e resolução de problemas do mundo real.  
   *Em andamento*
 
-* **[Bootcamp Front-End do Zero — Ri Happy (DIO)](LINK_DO_REPOSITORIO):**  
+* **[Bootcamp Front-End do Zero — Ri Happy (DIO)](https://github.com/carolinadefatima/dio-frontend-do-zero-challenges.git):**  
   Repositório índice com projetos desenvolvidos em HTML, CSS e JavaScript, responsáveis por consolidar minha base em lógica, DOM e consumo de APIs REST.
 
 
@@ -96,3 +96,7 @@ Atualmente, meu foco principal é **Python**, mas também possuo uma base sólid
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZkODk4ZXdxeGRndHZqYW5weTFuc21leHVqcWMyOG8xa2FlNzhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fvi3LEWpn2Mmh1fnBK/giphy.gif" alt="GIF">
 </p>
+<p align="center">
+  <i>"I'm intimidated by the fear of being average." — Taylor Swift</i>
+</p>
+
