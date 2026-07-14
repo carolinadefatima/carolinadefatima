@@ -1,102 +1,120 @@
 <h1 align="center">
-  🌸 Oi! Eu sou a <strong>Ana Carolina de Fátima</strong> 🌸  
-  <br>
-  <strong>Desenvolvedora Back-End em Formação</strong>
+  Oi! Eu sou a <strong>Ana Carolina de Fátima</strong>
 </h1>
 
 <p align="center">
-  Seja bem-vindo(a) ao meu GitHub  
-  Aqui você vai encontrar meus estudos, projetos e minha evolução como desenvolvedora 
-  <br>— um passo de cada vez.
+  <strong>UI/UX Designer em formação · Estagiária no Instituto Eldorado · ADS @ IESB</strong>
 </p>
 
+<p align="center">
+  Bem-vinda(o) ao meu cantinho no GitHub!<br>
+  Aqui compartilho meus estudos, projetos e cases de UI/UX, documentando minha evolução como designer e construindo um portfólio que une estética, estratégia e experiência do usuário.
+</p>
 
 ---
 
-<h2 align="center">Sobre mim</h2>
+## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (IESB)**, em transição para a área de tecnologia, com foco em **desenvolvimento Back-End**, lógica de programação e automação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (IESB)** e atualmente faço estágio em **UI/UX Design no Instituto de Pesquisas Eldorado**, pelo programa **ELASnoELD**.
 
-Minha trajetória profissional anterior me deu uma base forte em **organização, análise de dados e resolução de problemas**, habilidades que hoje aplico na escrita de **código limpo, estruturado e funcional**. Gosto de entender regras de negócio, trabalhar com lógica e transformar problemas em soluções técnicas.
+Minha trajetória passou por áreas bem diferentes — laboratório, clipping, social media e design editorial — mas sempre com o mesmo objetivo: **transformar informação em algo claro, bonito e humano**.
 
-Atualmente, meu foco principal é **Python**, mas também possuo uma base sólida em **JavaScript**, que utilizo quando faz sentido para integração com interfaces e consumo de APIs.
+Muito antes de conhecer UX Design, eu já passava horas personalizando temas no Tumblr usando HTML e CSS. Hoje continuo com esse mesmo interesse por interfaces, só que utilizando Figma, pesquisa com usuários e prototipação para criar experiências bonitas e funcionais.
 
----
-
-## O que estou estudando agora
-
-- Back-End com **Python**
-- Lógica de Programação e Estruturas de Dados
-- APIs REST e manipulação de dados (CSV / JSON)
-- Boas práticas de código
-- Aprendizado contínuo com apoio de ferramentas de IA
+Acredito que um bom design acontece quando estética e usabilidade caminham juntas, e é isso que busco desenvolver em cada projeto.
 
 ---
 
-<h2 align="center">Tecnologias & Ferramentas</h2>
+## O que estou aprendendo agora
+
+- UI Design e prototipação com **Figma**
+- UX Research e entrevistas com usuários
+- Arquitetura da Informação
+- Design Systems e componentes reutilizáveis
+- Wireframes, protótipos e testes de usabilidade
+- Handoff para desenvolvimento
+
+Atualmente cursando o **Google UX Design Professional Certificate (Coursera)**.
+
+---
+
+## Tecnologias & Ferramentas
 
 <div align="center">
 
-### Linguagens
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"></code>
+### Design
 
-### Versionamento & Ambiente
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"></code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="45" alt="Figma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg" height="45" alt="Adobe Illustrator"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" height="45" alt="Adobe Photoshop"/>
 
 ### Base Front-End
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"></code>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
+
+### Versionamento
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45" alt="GitHub"/>
 
 </div>
 
 ---
 
-## Repositórios em Destaque
+## Repositórios em destaque
 
-* **[The Python Tour](https://github.com/carolinadefatima/the_python_tour.git):**  
-  Cronograma autoral de estudos em Python, estruturado em módulos práticos para consolidar lógica, sintaxe, automação e construção de projetos back-end.  
-  *Em andamento*
+Atualmente estou desenvolvendo meus primeiros **cases de UI/UX** para compor meu portfólio. Em breve eles estarão disponíveis por aqui!
 
-* **[Bootcamp Back-End com Python — Luizalabs (DIO)](https://github.com/carolinadefatima/luizalabs_back_end_com_python.git):**  
-  Projetos e desafios práticos focados em desenvolvimento back-end com Python, APIs, organização de código e resolução de problemas do mundo real.  
-  *Em andamento*
-
-* **[Bootcamp Front-End do Zero — Ri Happy (DIO)](https://github.com/carolinadefatima/dio-frontend-do-zero-challenges.git):**  
-  Repositório índice com projetos desenvolvidos em HTML, CSS e JavaScript, responsáveis por consolidar minha base em lógica, DOM e consumo de APIs REST.
-
+---
 
 ## Formação & Certificações
 
-- **Análise e Desenvolvimento de Sistemas** — IESB *(em andamento)*  
-- **Bootcamp Back-End com Python** — Luizalabs | DIO  *(em andamento)*  
-- **Bootcamp Front-End do Zero** — Ri Happy | DIO  
-- **Formação Lógica de Programação** — DIO  
-- **Git e GitHub: Controle de Versão** — DIO  
+### Formação
+
+- **Análise e Desenvolvimento de Sistemas** — IESB *(em andamento)*
+
+### Em andamento
+
+- **Google UX Design Professional Certificate** — Coursera
+
+### Concluídos
+
+- Design para Quem Não é Designer — TIC em Trilhas
+- Bootcamp Front-End do Zero — Ri Happy | DIO
+- Formação Lógica de Programação — DIO
+- Git e GitHub: Controle de Versão — DIO
 
 ---
+
+## Atualmente
+
+- Estagiária de UI/UX Design no **Instituto de Pesquisas Eldorado**
+- Desenvolvendo meus primeiros cases completos de UX para portfólio
+- Aprendendo continuamente sobre pesquisa, interação e design de interfaces
+- Sempre procurando criar experiências mais bonitas, intuitivas e acessíveis
+
+---
+
 <h2 align="center">Vamos nos conectar?</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anacarolinadefatima/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="45px">
   </a>
-  <a href="mailto:santosanacarolina12@gmail.com" target="_blank">
+  &nbsp;&nbsp;
+  <a href="mailto:sousanacarolina13@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/344/gmail-new.png" width="45px">
   </a>
 </p>
 
-<p align="center">
-  Obrigada pela visita!
-</p>
+<p align="center">Obrigada pela visita!</p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZkODk4ZXdxeGRndHZqYW5weTFuc21leHVqcWMyOG8xa2FlNzhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fvi3LEWpn2Mmh1fnBK/giphy.gif" alt="GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZkODk4ZXdxeGRndHZqYW5weTFuc21leHVqcWMyOG8xa2FlNzhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fvi3LEWpn2Mmh1fnBK/giphy.gif" alt="gif">
 </p>
+
 <p align="center">
   <i>"I'm intimidated by the fear of being average." — Taylor Swift</i>
 </p>
-
